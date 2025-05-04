@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -36,7 +36,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.ExamenUd5Application (1).executor": "Run",
     "Spring Boot.ExamenUd5Application.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/compiled-code",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Program Files/Eclipse Adoptium/jdk-21.0.7.6-hotspot",
     "node.js.detected.package.eslint": "true",
@@ -95,7 +95,7 @@
       <workItem from="1746285111967" duration="2015000" />
       <workItem from="1746386088658" duration="1799000" />
       <workItem from="1746388055237" duration="189000" />
-      <workItem from="1746388273847" duration="1288000" />
+      <workItem from="1746388273847" duration="2442000" />
     </task>
     <servers />
   </component>
